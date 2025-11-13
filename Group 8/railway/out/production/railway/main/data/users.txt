@@ -1,0 +1,2 @@
+A001,Admin,admin@railway.com,admin123,Admin
+P001,Sumit Suryavanshi,sumitrs9090@gmail.com,sumit1234,Passenger
